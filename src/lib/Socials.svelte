@@ -1,7 +1,7 @@
 <div>
-    <p>Github</p>
-    <p>Linkedin</p>
-    <p>Twitter/X</p>
+    <a target="_blank" href="https://github.com/ZillaZ">Github</a>
+    <a target="_blank" href="https://www.linkedin.com/in/lucas-hsm/">Linkedin</a>
+    <a target="_blank" href="https://x.com/rvnsxm">Twitter/X</a>
 </div>
 <style>
     div {

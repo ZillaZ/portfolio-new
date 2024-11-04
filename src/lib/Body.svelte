@@ -1,4 +1,4 @@
-<script>
+<script lang="ts">
     import ShortPresentation from "./ShortPresentation.svelte";
     import Info from "./Info.svelte";
     import Projects from "./Projects.svelte";
@@ -34,7 +34,7 @@
         border-radius: 5px;
         border-style: solid;
         background-color: #eeeeeeaa;
-        overflow-y: hidden;
+        overflow: hidden;
     }
     .short {
         width: 30%;
