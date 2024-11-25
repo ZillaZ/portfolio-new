@@ -1,11 +1,12 @@
 <script>
   import Project from "./Project.svelte";
+  
   const link_lines = [
-    "<p>Durante minha colaboração na equipe de transformação digital da instituição, desempenhei um papel crucial na otimização de processos e na implementação de soluções automatizadas. Minha principal responsabilidade foi desenvolver automações capazes de:",
-    "<li>Fazer disparo de e-mails automáticos, aumentando a eficiência na comunicação com stakeholders;",
-    "<li>Atualizar e manter a base de dados, garantindo a precisão e a disponibilidade das informações essenciais para as operações diárias;",
-    "<li>Fazer verificação de informações cadastrais através do uso de API's externas para, assegurando a integridade e validade das informações providas pelos usuários;",
-    "<li>Administrar usuários, criando e gerenciando contas Google Workspace, facilitando a colaboração e a produtividade interna.",
+      "<p>During my collaboration with the institution's digital transformation team, I played a critical role in optimizing processes and implementing automated solutions. My primary responsibility was to develop automations capable of:",
+    "<li>Automatically sending mass emails to increase communication efficiency with stakeholders;",
+    "<li>Updating and maintaining the database, ensuring the accuracy and availability of essential information for daily operations;",
+    "<li>Validating census information by leveraging external APIs to guarantee the accuracy and validity of user-provided data;",
+    "<li>Managing users, creating and managing Google Workspace accounts, thereby enhancing collaboration and internal productivity.",
   ];
 </script>
 

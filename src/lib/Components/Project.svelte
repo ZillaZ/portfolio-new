@@ -15,7 +15,7 @@
   .content-wrapper {
     color: white;
     width: 80%;
-    background-color: #000000aa;
+    background-color: #000000ca;
     padding: 5%;
     margin-top: 5%;
     border-radius: 25px;

@@ -1,13 +1,13 @@
 <div class="content-wrapper">
   <p class="header">Lucas Henrique | 19yo | Junior Software Developer</p>
-  <p>Entusiasta em programação low level e sistemas de alta performance.</p>
+  <p>Passionate about low-level programming and high-performance systems.</p>
   <p>
-    Tenho experiência trabalhando em projetos web utilizando framework Svelte
-    (JavaScript) para criação de interfaces e Rocket (Rust) para desenvolvimento
-    de API's de alta performance, os integrando com bancos de dados relacionais
-    MySQL, Postgres e Microsoft SQL server.
+    I have experience working on web projects using the Svelte (JavaScript)
+    framework to create interfaces and Rocket (Rust) to develop high-performance
+    APIs, integrating them with relational databases such as MySQL, Postgres,
+    and Microsoft SQL Server.
   </p>
-  <p>Atualmente focado em projetos utilizando linguagem de programação Rust.</p>
+  <p>I am currently focused on projects using the Rust programming language.</p>
 </div>
 
 <style>
@@ -28,5 +28,5 @@
   .header {
     font-size: x-large;
     text-align: center;
- }
+  }
 </style>
