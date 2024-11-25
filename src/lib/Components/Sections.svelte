@@ -22,6 +22,7 @@
       background-color: #232323a0;
     }
   }
+  
   .sections {
     height: 30vh;
     width: 30vw;
@@ -34,8 +35,9 @@
     height: 33%;
     background-color: #000000aa;
     color: white;
-    border-radius: 25px;
     margin-bottom: 1%;
+    border-width: 1px 0;
+    border-color: #dddddd90;
   }
 
   button:hover {
