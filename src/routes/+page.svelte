@@ -26,14 +26,29 @@
 </div>
 
 <style>
-  .content-wrapper {
-    height: 100%;
-    width: 100%;
-    display: flex;
-  }
-
-  .right-tab {
-    width: 65%;
-    height: 100%;
-  }
+  @media screen and (min-width: 600px) {
+    .content-wrapper {
+      height: 100%;
+      width: 100%;
+      display: flex;
+    }
+  
+    .right-tab {
+      width: 65%;
+      height: 100%;
+    }	
+	}
+  @media screen and (max-width: 600px) {
+    .content-wrapper {
+      height: 100%;
+      width: 100%;
+      display: flex;
+      flex-direction: column;
+    }
+  
+    .right-tab {
+      width: 100%;
+      height: 100%;
+    }	
+	}
 </style>
